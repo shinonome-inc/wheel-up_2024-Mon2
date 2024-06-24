@@ -1,3 +1,3 @@
 WILL
 WASEDA
-Akinori
+AKINORI
